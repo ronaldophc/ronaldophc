@@ -1,16 +1,21 @@
-### Hi there 👋
+### Olá! Me chamo Ronaldo Hortmann! 👏
 
-<!--
-**ronaldophc/ronaldophc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente trabalho fora da área.
+- 🌱 Estou estudando HTML, CSS, JS, TS e GameMaker.
+- 📚 Estudo na UTFPR - Sistemas para Internet.
+- 🎮 Entusiasta de Jogos.
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+  <a href="https://www.spigotmc.org" target="_blank"><img align="center" alt="Ronaldo-Spigot" height="30" width="40" src="https://cdn.discordapp.com/attachments/739464507616919643/1142823915207540776/spigot.png"></a>
+  +
+  <img align="center" alt="Ronaldo-Java" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ##
+ 
+<div> 
+  <a href="https://instagram.com/ronaldo_hort" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/ronaldophc" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "mailto:camposr@alunos.utfpr.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+</div>
