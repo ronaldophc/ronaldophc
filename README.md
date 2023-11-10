@@ -1,7 +1,6 @@
 ### Olá! Me chamo Ronaldo Hortmann! 👏
 
-- 🔭 Atualmente trabalho fora da área.
-- 🌱 Estou estudando HTML, CSS, JS, TS e GameMaker.
+- 🌱 Estudando HTML, CSS, JS, TS e BootStrap.
 - 📚 Estudo na UTFPR - Sistemas para Internet.
 - 🎮 Entusiasta de Jogos.
 
