@@ -5,7 +5,7 @@
 - 🎮 Entusiasta de Jogos.
 
 <div style="display: inline_block"><br>
-  <a href="https://www.spigotmc.org" target="_blank"><img align="center" alt="Ronaldo-Spigot" height="30" width="40" src="https://cdn.discordapp.com/attachments/739464507616919643/1142823915207540776/spigot.png"></a>
+  <a href="https://www.spigotmc.org" target="_blank"><img align="center" alt="Ronaldo-Spigot" height="30" width="40" src="https://images.app.goo.gl/x73T2YZLkSoJsFTAA"></a>
   +
   <img align="center" alt="Ronaldo-Java" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
