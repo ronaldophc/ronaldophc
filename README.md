@@ -1,6 +1,6 @@
 ### Olá! Me chamo Ronaldo Hortmann! 👏
 
-- 🌱 Estudando HTML, CSS, JS, TS, Tailwind, Angular e BootStrap.
+- 🌱 Estudando Angular, OpenMage, php e POO.
 - 📚 Estudo na UTFPR - Sistemas para Internet.
 - 🎮 Entusiasta de Jogos.
 
