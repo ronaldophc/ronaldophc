@@ -4,12 +4,6 @@
 - 📚 Estudo na UTFPR - Sistemas para Internet.
 - 🎮 Entusiasta de Jogos.
 
-<div style="display: inline_block"><br>
-  <a href="https://www.spigotmc.org" target="_blank"><img align="center" alt="Ronaldo-Spigot" height="30" width="40" src="https://avatars.githubusercontent.com/u/4350249?s=200&v=4"></a>
-  +
-  <img align="center" alt="Ronaldo-Java" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-</div>
-
   ##
  
 <div> 
