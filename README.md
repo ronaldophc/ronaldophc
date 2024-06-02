@@ -1,6 +1,6 @@
 ### Olá! Me chamo Ronaldo Hortmann! 👏
 
-- 🌱 Estudando Angular, OpenMage, php e POO.
+- 🌱 Estudando Angular, Magento e Laravel.
 - 📚 Estudo na UTFPR - Sistemas para Internet.
 - 🎮 Entusiasta de Jogos.
 
