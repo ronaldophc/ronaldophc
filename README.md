@@ -1,6 +1,6 @@
 ### Olá! Me chamo Ronaldo Hortmann! 👏
 
-- 🌱 Estudando Typescipt, PaperMC, Magento e Laravel.
+- 🌱 Estudando Typescript, PaperMC, Magento e Laravel.
 - 📚 Estudo na UTFPR - Sistemas para Internet.
 -  :computer: Trabalhando com Magento(Openmage) e Laravel.
 
