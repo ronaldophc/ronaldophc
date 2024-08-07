@@ -3,7 +3,6 @@
 - 🌱 Estudando Typescipt, PaperMC, Magento e Laravel.
 - 📚 Estudo na UTFPR - Sistemas para Internet.
 -  :computer: Trabalhando com Magento(Openmage) e Laravel.
-- 🎮 Entusiasta de Jogos.
 
   ##
  
