@@ -1,14 +1,14 @@
-### Olá! Me chamo Ronaldo Hortmann! 👏
+### Hello! Im am Ronaldo Hortmann! 👏
 
-- 🌱 Estudando Typescript, PaperMC, Magento e Laravel.
-- 📚 Estudo na UTFPR - Sistemas para Internet.
--  :computer: Trabalhando com Magento(Openmage) e Laravel.
+- 🌱 Studying Typescript, PHP, Magento and Laravel.
+- 📚 Student at UTFPR - Sistemas para Internet.
+-  :computer: Working with Magento(Openmage).
 
   ##
  
 <div> 
-  <a href="https://instagram.com/ronaldo_hort" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/ronaldophc" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:camposr@alunos.utfpr.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+  <a href="https://www.instagram.com/ronaldohortmann/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ronaldophc/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
   
 </div>
